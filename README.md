@@ -24,8 +24,8 @@ Download git: http://www.git-scm.com/downloads
 ##About github
 
 Github made WYSIWYG software to use git without command tool: 
-- Github for Mac (https://mac.github.com) And see also: https://mac.github.com/help.html
-- Github for Windows (https://windows.github.com)
+- [Github for Mac](https://mac.github.com) And see also usefull [helpfiles](https://mac.github.com/help.html)
+- [Github for Windows](https://windows.github.com)
 
 Sources: 
 - https://github.com
@@ -35,8 +35,8 @@ Sources:
 
 ##Key terms
 
-A commit is simply a pointer to a spot on your code history.
-A repository is kind of like a code history book. It will hold all the past versions of your code, as well as the current one.
+A **commit** is simply a pointer to a spot on your code history.  
+A **repository** is kind of like a code history book. It will hold all the past versions of your code, as well as the current one.
 
 - Add (to staging)
 - Commit (create a pointer)
