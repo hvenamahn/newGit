@@ -55,6 +55,7 @@ Sources:
 - What is md: http://lifehacker.com/5943320/what-is-markdown-and-why-is-it-better-for-my-to-do-lists-and-notes 
 - Editors: http://speckyboy.com/2013/12/04/markdown-tools-editors/ 
 - Try it out: http://daringfireball.net/projects/markdown/dingus
+- Lightpaper for Mac: http://www.ashokgelal.com/lightpaper-for-mac/
 - iA Writer for Mac: http://www.iawriter.com/mac/
 - Sublime Text & Markdown: http://www.macstories.net/roundups/sublime-text-2-and-markdown-tips-tricks-and-links/
 
