@@ -38,10 +38,21 @@ Sources:
 A commit is simply a pointer to a spot on your code history.
 A repository is kind of like a code history book. It will hold all the past versions of your code, as well as the current one.
 
-Add (to staging)
-Commit (create a pointer)
-Branch (make a copy)
-Checkout (switch HEAD to)
-Merge (branches)
-Pull (=fetch and merge)
-Push (=share)
+- Add (to staging)
+- Commit (create a pointer)
+- Branch (make a copy)
+- Checkout (switch HEAD to)
+- Merge (branches)
+- Pull (=fetch and merge)
+- Push (=share)
+
+##Markdown
+
+Github uses a version of Markdown for README fiels and discussions on Github.
+https://help.github.com/articles/github-flavored-markdown/ 
+
+Sources:
+- What is md: http://lifehacker.com/5943320/what-is-markdown-and-why-is-it-better-for-my-to-do-lists-and-notes 
+- Editors: http://speckyboy.com/2013/12/04/markdown-tools-editors/ 
+- Try it out: http://daringfireball.net/projects/markdown/dingus 
+
