@@ -1,0 +1,4 @@
+Understanding Git
+This is a simple text file, created locally and saved in the understandingGit folder on the local drive.
+
+After initial commit, this file was changed and saved locally.
