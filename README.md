@@ -24,8 +24,8 @@ Download git: http://www.git-scm.com/downloads
 ##About github
 
 Github made WYSIWYG software to use git without command tool: 
-Github for Mac (https://mac.github.com) And see also: https://mac.github.com/help.html
-Github for Windows (https://windows.github.com)
+- Github for Mac (https://mac.github.com) And see also: https://mac.github.com/help.html
+- Github for Windows (https://windows.github.com)
 
 Sources: 
 - https://github.com
