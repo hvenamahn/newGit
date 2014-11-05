@@ -1,4 +1,4 @@
-#Understanding Git - notes. 
+#New to Git - notes. 
 
 ##About git
 
