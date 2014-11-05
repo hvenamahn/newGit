@@ -56,4 +56,5 @@ Sources:
 - Editors: http://speckyboy.com/2013/12/04/markdown-tools-editors/ 
 - Try it out: http://daringfireball.net/projects/markdown/dingus
 - iA Writer for Mac: http://www.iawriter.com/mac/
+- Sublime Text & Markdown: http://www.macstories.net/roundups/sublime-text-2-and-markdown-tips-tricks-and-links/
 
